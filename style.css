@@ -1,0 +1,45 @@
+h1
+{
+    color: white;
+}
+p
+{
+    color: white;
+}
+
+.Header
+{
+    background-color: rgb(194, 236, 116);
+    display: flex;
+    justify-content: center;
+}
+.sub-cl
+
+.grid
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.body
+{
+    background-color: lightgoldenrodyellow;
+}
+
+
+.origami
+{
+    border-radius: 20px;
+    background-color: white;
+
+    width: 310px;
+    font-family: fantasy;
+}
+
+.grid img
+{
+    border: 2px solid black;
+    border-radius: 50px;
+}
